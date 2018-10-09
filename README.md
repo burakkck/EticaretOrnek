@@ -1,1 +1,1 @@
-# EticaretOrnek
+E ticaret örnek uygulama
